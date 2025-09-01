@@ -242,7 +242,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Christian Tzolov](https://x.com/christzolov)
 - [Josh Long](https://twitter.com/starbuxman)
 - [Dan Vega](https://twitter.com/therealdanvega)
-- [Thomas Vitale](https://twitter.com/ThomasVitale)
+- [Thomas Vitale](https://bsky.app/profile/thomasvitale.com)
 - [Dan Dobrin](https://x.com/ddobrin)
 - [Marcus Hellberg](https://twitter.com/marcushellberg)
 - Lize Roes
