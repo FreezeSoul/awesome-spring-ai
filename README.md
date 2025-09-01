@@ -155,6 +155,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Devoxx Playlist](https://www.youtube.com/@DevoxxForever)
 - [Telusko Spring AI Tutorial Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7qJSZcMaN18c5l-k2n1FWHx) - Comprehensive tutorial series covering Spring AI implementation with OpenAI, Anthropic, and Ollama integration
 - [AI - Artificial Intelligence Playlist](https://www.youtube.com/playlist?list=PL41m5U3u3wwnzJMaMaSwKWa_CGyG3jY0X) - Collection of videos covering Spring AI and general artificial intelligence concepts and implementations
+- [SivaLabs Spring AI Tutorial Playlist](https://www.youtube.com/watch?v=oP7tn_YfoOk&list=PLuNxlOYbv61hmSWcdM0rtoWT0qEjZMIhU) - Spring AI tutorial series covering Spring AI fundamentals, integration with various LLM providers, prompt engineering, and building AI-powered applications.
 
 ### Workshops
 
