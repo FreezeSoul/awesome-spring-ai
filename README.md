@@ -84,6 +84,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Articles
 
+- [Understanding Tool/Function Calling in LLMs (Step-by-Step Examples in REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b) - Learn how to implement OpenAI-style tool calling — from raw REST to elegant Spring AI annotations (July 2025)
 - [Semantic search with embeddings in Spring & Kotlin](https://medium.com/p/83e2c2f3406f) - Comprehensive guide to the use of embeddings in Spring AI (April 2025)
 - [Spring AI in Java Applications](https://medium.com/@alxkm/power-of-ai-in-java-applications-with-spring-ai-eed97c8408b2) - Vision for enterprise AI integration with Spring (March 2025)
 - [Configuring MCP-Client SSE using Spring AI](https://medium.com/@shaamamanoharan/configuring-mcp-client-sse-in-spring-boot-fb07371c35a7) - Technical guide for configuring Server-Sent Events with MCP clients (February 2025)
