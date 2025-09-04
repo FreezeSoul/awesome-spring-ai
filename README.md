@@ -101,6 +101,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Mastering Spring AI: Build AI with Java (Udemy)](https://www.udemy.com/course/mastering-spring-ai-build-ai-with-java/?couponCode=CP130525US) - Advanced course focused on building production-ready AI applications with Spring AI and Java
 - [Spring AI for Beginners: Build GenAI & LLM Apps (Udemy)](https://www.udemy.com/course/spring-ai-for-beginners-build-genai-llm-apps-in-easy-steps/?couponCode=CP130525US) - Step-by-step guide for beginners to create generative AI applications with Spring AI
 - [Spring AI with Neo4j: Knowledge Graph RAG (Udemy)](https://www.udemy.com/course/java-spring-ai-neo4j-openai-knowledge-graph-rag/?couponCode=CP130525US) - Specialized course on implementing Knowledge Graph RAG (Retrieval Augmented Generation) using Spring AI and Neo4j graph database
+- [Build AI Apps with Spring AI, OpenAI, Ollama & SpringBoot (Udemy)](https://www.udemy.com/course/build-ai-apps-with-spring-ai-openai-springboot/?couponCode=MT260825G2) - Hands-on course teaching how to integrate AI capabilities into Spring Boot applications using Spring AI framework and OpenAI (August 2025)
 
 
 #### Talks & Videos
