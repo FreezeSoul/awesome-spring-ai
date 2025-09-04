@@ -29,7 +29,6 @@ A curated list of awesome resources, tools, tutorials, and projects for building
         - [Core Resources](#core-resources)
         - [MCP Servers for Spring Projects](#mcp-servers-for-spring-projects)
         - [Domain-Specific MCP Implementations](#domain-specific-mcp-implementations)
-        - [Other MCP example projects](#other-mcp-example-projects)
 - [Community](#community)
     - [Who to Follow](#who-to-follow)
 - [Tools & Performance](#tools--performance)
@@ -85,8 +84,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Articles
 
-- [Spring AI with Amazon Bedrock - Part 1: Introduction and Sample Application](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-1-introduction-and-the-sample-application-4hof) - Tutorial demonstrating how to build a conference search application using Spring AI and Amazon Bedrock's Converse API, covering tool-based interaction with language models (August 2025)
-- [Building Java AI Agents with Spring AI](https://aws-experience.com/emea/smb/e/90912/building-java-ai-agents-with-spring-ai) - Technical guide focused on creating intelligent software agents using Java programming and the Spring AI technology platform (2025)
+- [Semantic search with embeddings in Spring & Kotlin](https://medium.com/p/83e2c2f3406f) - Comprehensive guide to the use of embeddings in Spring AI (April 2025)
 - [Spring AI in Java Applications](https://medium.com/@oleksandr.klymenko/power-of-ai-in-java-applications-with-spring-ai-62bc2c2aa849) - Vision for enterprise AI integration with Spring (March 2025)
 - [Configuring MCP-Client SSE using Spring AI](https://medium.com/@shaamamanoharan/configuring-mcp-client-sse-in-spring-boot-fb07371c35a7) - Technical guide for configuring Server-Sent Events with MCP clients (February 2025)
 - [Spring AI: A Beginner's Guide (Part 1)](https://medium.com/@kushparsaniya/spring-ai-a-beginners-guide-part-1-8a0ef9c52f21) & [Part 2](https://medium.com/@kushparsaniya/spring-ai-a-beginners-guide-part-2-dff1f353650b) - Multi-part walkthrough of Spring AI fundamentals. Part 1 covers integrating chat models (OpenAI/Ollama) in Spring Boot; Part 2 dives into the Advisor API (December 2024)
@@ -95,21 +93,6 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Getting Started with Spring AI (Java Code Geeks)](https://www.javacodegeeks.com/2024/09/getting-started-with-spring-ai.html) - Simple introduction to Spring AI for Java developers (September 2024)
 - [Getting Started with Spring AI](https://medium.com/@arvindcoder/getting-started-with-spring-ai-c5a630b1d7c2) - Introduction to Spring AI's core components and model abstractions (August 2024)
 - [How to Write GenAI Applications with Java (Foojay.io)](https://foojay.io/today/spring-ai-generative-ai-java/) - Comprehensive guide covering RAG and Spring AI templates (July 2024)
-- [Spring AI 1.0 Brings AI to the Developer Masses (AWS)](https://community.aws/content/2xLkItwKHrZ5EweKTz9uPpYHyPk/spring-ai-1-0-brings-ai-to-the-developer-masses) - Overview of Spring AI 1.0 features and how it enables Java developers to build AI-powered applications. (May 2025)
-- [Google Cloud and Spring AI 1.0](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-and-spring-ai-10) - Explains integration possibilities between Spring AI and Google Cloud services. (May 2025)
-- [Spring AI and Elasticsearch as your vector database (Elastic)](https://www.elastic.co/search-labs/blog/spring-ai-elasticsearch-application) - How to use Elasticsearch as a vector database with Spring AI. (May 2025)
-- [Build fast, production-worthy AI apps with Spring AI and Redis (Redis)](https://redis.io/blog/build-fast-production-worthy-ai-apps-with-spring-ai-and-redis/) - Guide to using Redis with Spring AI for scalable, production-ready AI applications. (May 2025)
-- [Spring AI and MongoDB: How to Build RAG Applications (MongoDB)](https://dev.to/mongodb/how-to-build-rag-applications-with-spring-ai-and-mongodb-5gaj) - Tutorial on building Retrieval-Augmented Generation (RAG) apps with Spring AI and MongoDB. (May 2025)
-- [Spring AI 1.0 GA released with Oracle Vector Database support (Oracle)](https://blogs.oracle.com/developers/post/spring-ai-10-ga-released-with-oracle-vector-database-support) - Announcement and technical overview of Oracle Vector Database support in Spring AI 1.0. (May 2025)
-- [Spring AI 1.0 Released, Streamlines AI Application Development with Broad Model Support (InfoQ)](https://www.infoq.com/news/2025/05/spring-ai-1-0-streamlines-apps/) - News article summarizing the 1.0 release and its impact. (May 2025)
-- [Production-Worthy AI With Spring AI 1.0 (The New Stack)](https://thenewstack.io/production-worthy-ai-with-spring-ai-1-0/) - Explores production use cases and architecture patterns enabled by Spring AI 1.0. (May 2025)
-- [Building Intelligent Spring Boot Applications with Spring AI and MCP: A Complete Guide](https://medium.com/bliblidotcom-techblog/building-intelligent-spring-boot-applications-with-spring-ai-and-mcp-a-complete-guide-d77ae3785b1c) - Comprehensive guide to implementing MCP architecture with practical examples for building AI-powered enterprise applications (June 2025)
-- [Building AI-Driven Applications With Spring AI](https://javapro.io/2025/04/22/building-ai-driven-applications-with-spring-ai/) - In-depth tutorial covering ChatClient API, structured output, advanced AI patterns including tool calling and RAG (April 2025)
-- [Creating Your First Model Context Protocol (MCP) Server in Java](https://www.danvega.dev/blog/2025/03/26/creating-your-first-mcp-server-java) - Complete step-by-step tutorial on building MCP servers with Spring Boot and Spring AI (March 2025)
-- [Using RAG and Vector Store with Spring AI](https://piotrminkowski.com/2025/02/24/using-rag-and-vector-store-with-spring-ai/) - Detailed tutorial on implementing Retrieval Augmented Generation (RAG) with Pinecone vector database (February 2025)
-- [Integrating AI with Spring Boot: A Beginner's Guide](https://mydeveloperplanet.com/2025/01/08/integrating-ai-with-spring-boot-a-beginners-guide/) - Beginner-friendly tutorial covering chat responses, streaming, system messages, chat memory, and prompt templates (January 2025)
-- [Spring AI: Integrating Artificial Intelligence into the Spring Ecosystem](https://medium.com/@agitrubard/spring-ai-integrating-artificial-intelligence-into-the-spring-ecosystem-5b10a2657ab8) - Comprehensive overview of Spring AI architecture, key features, use cases, and advantages (2025)
-- [Integrating LLM into Java Applications with Spring AI — Chat Client API](https://medium.com/@johnidouglasmarangon/integrating-llm-into-java-applications-with-spring-ai-chat-client-api-21e0bacedced) - Comprehensive guide covering the Chat Client API, streaming responses, and structured output with practical examples (2025)
 
 ### Online Training
 
@@ -117,16 +100,10 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Mastering Spring AI: Build AI with Java (Udemy)](https://www.udemy.com/course/mastering-spring-ai-build-ai-with-java/?couponCode=CP130525US) - Advanced course focused on building production-ready AI applications with Spring AI and Java
 - [Spring AI for Beginners: Build GenAI & LLM Apps (Udemy)](https://www.udemy.com/course/spring-ai-for-beginners-build-genai-llm-apps-in-easy-steps/?couponCode=CP130525US) - Step-by-step guide for beginners to create generative AI applications with Spring AI
 - [Spring AI with Neo4j: Knowledge Graph RAG (Udemy)](https://www.udemy.com/course/java-spring-ai-neo4j-openai-knowledge-graph-rag/?couponCode=CP130525US) - Specialized course on implementing Knowledge Graph RAG (Retrieval Augmented Generation) using Spring AI and Neo4j graph database
-- [Java Spring Boot AI Live Course](https://courses.telusko.com/learn/Java-Spring-Boot-AI-Live-Course) - A hands-on course covering Java, Spring Boot, and modern AI integration, including the use of AI coding assistants and prompt engineering. Starts July 20th, duration 5-6 months.
+
 
 #### Talks & Videos
-- [MCP in Java Spring AI: Web Search + Selenium](https://www.youtube.com/watch?v=2QIXs5nlvAU) - Learn to enhance LLMs with external tools using Spring AI's Model Context Protocol, including web search with Brave Search MCP and browser automation with Selenium MCP. - June 2025
-- [Getting Started with Spring AI by Simplilearn](https://www.youtube.com/watch?v=b_MMLZO_drM) - This video provides a deep dive into Spring AI, covering project setup with Spring Initializer, key components like ChatService.java, and real-world use cases. By the end, you'll have a solid understanding of how to integrate AI into your own applications. - June 2025
-- [Spring AI MCP Client & Server with Ollama for your enterprise application with HTTP SSE](https://www.youtube.com/watch?v=chBd2Ls_4_Y) - This video provides an end-to-end guide on implementing a SEE Sync MCP using Ollama. It covers creating a basic chat client, configuring an enterprise application, and setting up a custom SSE Spring MCP server and client. - June 2025
-- [MCP Weather API Tutorial](https://www.youtube.com/watch?v=C23FGvqhE6c) - This hands-on tutorial demonstrates how to turn a standard weather API into an intelligent AI tool using the Model Context Protocol (MCP). It breaks down Spring AI's MCP annotations and provides a step-by-step code walkthrough. - June 2025
-- [From Single-Shot LLMs to Intelligent Agents: Building Scalable AI Systems with Spring AI and MCP by Christian Tzolov @ Spring I/O 2025](https://youtu.be/l38CPjOYsHk) - May 2025
-- [Modular RAG Architectures with Java and Spring AI by Thomas Vitale @ Spring I/O 2025](https://youtu.be/yQQEnXRMvUA) - May 2025
-- [MCP, it's easy as ABC...](https://www.youtube.com/watch?v=cE1h-rC2o2U) - February 2025
+- [MCP, it's easy as ABC...](https://www.youtube.com/watch?v=cE1h-rC2o2U) - 
 - [Bootiful Spring AI](https://www.youtube.com/watch?v=uPWebxgEwlE) - Thanks to Devnexus for permission to represent this video- March 2025
 - [What's New in Spring AI M4 • Josh Long](https://www.youtube.com/watch?v=6fYjOTVTvOc) - February 2025
 - [Intelligent Applications with Spring AI • Patrick Baumgartner @ JFokus 2025](https://www.youtube.com/watch?v=NBa2nuxqEJw) - February 2025
@@ -137,7 +114,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Building Agents with AWS: Complete Tutorial • Josh Long & James Ward](https://www.youtube.com/watch?v=Y291afdLroQ) - November 2024
 - [Supercharging your AI Applications with Spring AI Advisors • Spring Team](https://spring.io/blog/2024/10/02/supercharging-your-ai-applications-with-spring-ai-advisors) - October 2024
 - [Spring AI Is All You Need • Christian Tzolov • GOTO Amsterdam 2024](https://www.youtube.com/watch?v=vuhMti8B5H0) - June 2024
-- [Practical GenAI with Spring AI • Rod Johnson @ YOW! 2024](https://www.youtube.com/watch?v=J5xglswsXdg) - June 2024
+- [Practical GenAI with Spring AI • Rod Johnson @ YOW! 2024](https://www.youtube.com/watch?v=4oaK3rKHiqs) - June 2024
 - [Introducing Spring AI by Christian Tzolov / Mark Pollack @ Spring I/O 2024](https://www.youtube.com/watch?v=umKbaXsiCOY) - May 2024
 - [Bringing GenAI to the Modern Enterprise. A production use-case. In Serverless Java !! • Dan Dobrin • Devoxx Belgium 2024](https://devoxx.be/talk/?id=8188) - May 2024
 - [Bootiful Spring Boot • Josh Long @ SpringOne 2024](https://www.youtube.com/watch?v=ex7rnzIMmlk) - January 2024
@@ -155,11 +132,9 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Devoxx Playlist](https://www.youtube.com/@DevoxxForever)
 - [Telusko Spring AI Tutorial Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7qJSZcMaN18c5l-k2n1FWHx) - Comprehensive tutorial series covering Spring AI implementation with OpenAI, Anthropic, and Ollama integration
 - [AI - Artificial Intelligence Playlist](https://www.youtube.com/playlist?list=PL41m5U3u3wwnzJMaMaSwKWa_CGyG3jY0X) - Collection of videos covering Spring AI and general artificial intelligence concepts and implementations
-- [SivaLabs Spring AI Tutorial Playlist](https://www.youtube.com/watch?v=oP7tn_YfoOk&list=PLuNxlOYbv61hmSWcdM0rtoWT0qEjZMIhU) - Spring AI tutorial series covering Spring AI fundamentals, integration with various LLM providers, prompt engineering, and building AI-powered applications.
 
 ### Workshops
 
-- [Building Java AI Agents with Spring AI](https://catalog.workshops.aws/java-spring-ai-agents/en-US) - AWS workshop focused on building intelligent Java agents using Spring AI framework (August 2025)
 - [Spring AI Zero to Hero Workshop](https://github.com/asaikali/spring-ai-zero-to-hero) - Example applications showing how to use Spring AI to build Generative AI projects.
 - (outdated) [Workshop material for Azure OpenAI](https://github.com/Azure-Samples/spring-ai-azure-workshop) - contains step-by-step examples from 'hello world' to 'retrieval augmented generation'
 - [Gemini Workshop for Spring AI Java Developers • Dan Dobrin](https://github.com/ddobrin/gemini-workshop-for-spring-ai-java-developers) - workshop materials for the Java developer building Gen AI applications with Gemini models using Spring AI
@@ -183,6 +158,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Flight Booking Assistant](https://github.com/tzolov/playground-flight-booking) - Spring AI powered expert system demo that simulates a flight booking assistant. Demonstrates how to build domain-specific AI assistants using Spring AI.
 
 - [Spring AI with QianFan](https://gitee.com/dino9527/spring-ai-examples.git) - Spring AI support for various AI language models from QianFan. Shows how to interact with QianFan language models and create a multilingual conversational assistant based on QianFan models.
+
+- [Similarity Search using Spring AI](https://github.com/thecodemonkey/SimilaritySearch) - Implementation of a simple similarity search. Demonstrating how to use Kotlin or Java with Spring-AI to generate embeddings and perform simple similarity searches (March 2025)
 
 ### UI Clients
 
@@ -218,6 +195,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 #### MCP Servers for Spring Projects
 - [Spring Batch MCP Server](https://github.com/fmbenhassine/spring-batch-lab/tree/main/sandbox/spring-batch-mcp-server) - An MCP service for introspecting Spring Batch applications, providing AI assistants with access to batch job information.
 - [Spring Cloud Config MCP Server](https://github.com/ryanjbaxter/spring-cloud-config/tree/mcp-server) - An experimental MCP server implementation for Spring Cloud Config that exposes configuration management operations as AI tools, allowing AI assistants to retrieve, update, and refresh application configurations, as well as encrypt/decrypt sensitive values.
+- [JVM Diagnostics MCP](https://github.com/brunoborges/jvm-diagnostics-mcp) - A Model Context Protocol service for obtaining JVM diagnostics, allowing AI assistants to access runtime information about Java applications.
 
 #### Domain-Specific MCP Implementations
 - [Kotlin Crypto Price MCP Server](https://github.com/gaplo917/kotlin-cyrpto-price-spring-mcp-server-demo) - A Kotlin-based Spring AI MCP server that provides real-time cryptocurrency price information from Binance.
@@ -225,25 +203,14 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [GitHub MCP Application](https://x.com/Stephan007/status/1910640447740838356) - A 100% Java GitHub MCP application built on Spring AI by Stephan Janssen, creator of Devoxx.
 - [AWS Sample MCP Demos](https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos) - Collection of examples showing how to use Model Context Protocol with AWS services, including Spring AI implementations.
 
-#### Other MCP example projects
-- [Cloud Foundry MCP](https://github.com/cpage-pivotal/cloud-foundry-mcp) - Example of using Spring AI's Model Context Protocol (MCP) to build a conversational assistant for Cloud Foundry. Demonstrates how to create a domain-specific AI assistant that can help users with Cloud Foundry operations and troubleshooting.
-- [Spring AI Recipe Finder MCP](https://github.com/timosalm/spring-ai-recipe-finder-mcp) - A recipe finder application built with Spring AI's Model Context Protocol. Demonstrates how to create a domain-specific assistant that can help users find recipes based on ingredients and preferences.
-- [JVM Diagnostics MCP](https://github.com/brunoborges/jvm-diagnostics-mcp) - A Model Context Protocol service for obtaining JVM diagnostics, allowing AI assistants to access runtime information about Java applications.
-- [MCP Time](https://github.com/alexandreroman/mcp-time/tree/main) - A unique MCP example demonstrating the use of MCP managed prompts rather than tools. Shows how to register and implement prompt templates that can be dynamically retrieved and used by MCP clients.
-- [MCP Chess](https://github.com/alexandreroman/mcp-chess/blob/main/README.md) - An MCP server that provides chess functionality for AI assistants. Implements tools to generate chess board images from FEN notation, suggest next moves, and check if moves are legal. Built with Spring Boot and Spring AI.
-- [MCP Location](https://github.com/alexandreroman/mcp-location/tree/main) - An MCP server that provides user location functionality through both tools and prompts. Features two implementation strategies: one using a network API to determine location from IP address, and another using a static configured location. Demonstrates the dual approach of offering both tool-based and prompt-based interfaces.
-
-
 ## Community
-
-- [Spring AI Community](https://github.com/spring-ai-community) - Community-driven repository for sharing knowledge, examples, and resources related to Spring AI.
 
 ### Who to Follow
 
 - [Christian Tzolov](https://x.com/christzolov)
 - [Josh Long](https://twitter.com/starbuxman)
 - [Dan Vega](https://twitter.com/therealdanvega)
-- [Thomas Vitale](https://bsky.app/profile/thomasvitale.com)
+- [Thomas Vitale](https://twitter.com/ThomasVitale)
 - [Dan Dobrin](https://x.com/ddobrin)
 - [Marcus Hellberg](https://twitter.com/marcushellberg)
 - Lize Roes
@@ -253,6 +220,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Adib Saikali](https://x.com/asaikali)
 - [Clémentine Fourrier](https://x.com/clefourrier)
 - [Craig Walls](https://x.com/habuma)
+- [Ilja Leyberman](https://www.linkedin.com/in/ilja-leyberman-3489aa1a1/)
 
 
 ## Podcasts
@@ -272,7 +240,6 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [The Neural Maze](https://www.youtube.com/channel/UCaixkLsW_TWWe_0yZNmvPaw)
 - [The Turing Lectures (General AI)](https://www.turing.ac.uk/events/the-turing-lectures)
-
 ## Tools & Performance
 
 ### Benchmarks
