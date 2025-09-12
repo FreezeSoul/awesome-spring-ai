@@ -59,9 +59,12 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Spring AI Blogs
 
-- [Dynamic Tool Updates in Spring AI's Model Context Protocol](https://spring.io/blog/2025/05/04/spring-ai-dynamic-tool-updates-with-mcp) - How to dynamically update tools available to AI assistants using Spring AI's MCP implementation
-- [Spring AI Prompt Engineering Patterns](https://spring.io/blog/2025/04/14/spring-ai-prompt-engineering-patterns) - Best practices and patterns for effective prompt engineering in Spring AI applications
-- [Agentic AI is the future! Agentic AI is now!](https://spring.io/blog/2025/01/21/spring-ai-agentic-patterns) - Exploring agentic patterns in Spring AI for building autonomous AI systems
+- [Your First Spring AI 1.0 Application](https://spring.io/blog/2025/05/20/your-first-spring-ai-1-0-application) - Complete tutorial building a production-ready dog adoption service with RAG, MCP, vector stores, and PostgreSQL (May 2025)
+- [Repository Vector Search Methods](https://spring.io/blog/2025/05/23/vector-search-methods) - Technical guide on implementing vector search with Spring Data 3.5, covering Vector type, SearchResults, and search methods (May 2025)
+- [Dynamic Tool Updates in Spring AI's Model Context Protocol](https://spring.io/blog/2025/05/04/spring-ai-dynamic-tool-updates-with-mcp) - How to dynamically update tools available to AI assistants using Spring AI's MCP implementation (May 2025)
+- [Spring AI Prompt Engineering Patterns](https://spring.io/blog/2025/04/14/spring-ai-prompt-engineering-patterns) - Best practices and patterns for effective prompt engineering in Spring AI applications (April 2025)
+- [Spring AI with Docker Model Runner](https://spring.io/blog/2025/04/10/spring-ai-docker-model-runner) - Integration tutorial for using Docker Model Runner with Spring AI for local development (April 2025)
+- [Agentic AI is the future! Agentic AI is now!](https://spring.io/blog/2025/01/21/spring-ai-agentic-patterns) - Exploring agentic patterns in Spring AI for building autonomous AI systems (January 2025)
 - [Leverage the Power of 45k, free, Hugging Face Models with Spring AI and Ollama](https://spring.io/blog/2024/10/22/leverage-the-power-of-45k-free-hugging-face-models-with-spring-ai-and-ollama)
 - [Supercharging Your AI Applications with Spring AI Advisors](https://spring.io/blog/2024/10/02/supercharging-your-ai-applications-with-spring-ai-advisors)
 - [Spring AI with NVIDIA LLM API](https://spring.io/blog/2024/08/20/spring-ai-with-nvidia-llm-api)
@@ -85,6 +88,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Articles
 
+- [Building AI-Native APIs with Spring AI and Model Context Protocol](https://www.thedavestack.com/spring-ai-mcp/) - Practical guide to implementing MCP servers in Spring Boot applications, introducing the "dual API paradigm" for AI integration with existing services using tools, resources, and prompts (September 2025)
 - [Creating Private AI Applications with Spring AI and GPT OSS](https://ik.am/entries/867/en) - Comprehensive tutorial demonstrating Spring AI integration with local gpt-oss:20b model using Ollama, featuring RAG, chat memory, structured output, and building an immigration advisor chatbot (September 2025)
 - **Spring AI with Amazon Bedrock Series by Vadym Kazulkin** - Four-part comprehensive series by AWS Serverless Hero exploring Spring AI integration with Amazon Bedrock and Model Context Protocol implementations:
   - [Part 1: Introduction and the Sample Application](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-1-introduction-and-the-sample-application-4hof) - Introduction to Spring AI with Amazon Bedrock featuring a conference search application with tools and chat memory (August 2024)
@@ -172,12 +176,11 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Code Examples
 
+- [Spring AI Official Examples](https://github.com/spring-projects/spring-ai-examples) - Comprehensive official repository containing examples for all Spring AI features including MCP dynamic tools, prompt engineering patterns, agentic workflows, vector stores, and various model integrations (2025)
+- [Spring AI Docker Model Runner Example](https://github.com/eddumelendez/spring-ai-dmr) - Integration example showing how to use Docker Model Runner with Spring AI for local development and testing (2025)
 - [Spring PetClinic AI](https://github.com/spring-petclinic/spring-petclinic-ai) - The classic Spring PetClinic application enhanced with a chatbot powered by Spring AI. Demonstrates natural language interaction with application data, allowing users to query and modify pet clinic information through conversation. Supports both OpenAI and Azure OpenAI as LLM providers. Detailed in a two-part blog series on spring.io.
-
 - [Flight Booking Assistant](https://github.com/tzolov/playground-flight-booking) - Spring AI powered expert system demo that simulates a flight booking assistant. Demonstrates how to build domain-specific AI assistants using Spring AI.
-
 - [Spring AI with QianFan](https://gitee.com/dino9527/spring-ai-examples.git) - Spring AI support for various AI language models from QianFan. Shows how to interact with QianFan language models and create a multilingual conversational assistant based on QianFan models.
-
 - [Similarity Search using Spring AI](https://github.com/thecodemonkey/SimilaritySearch) - Implementation of a simple similarity search. Demonstrating how to use Kotlin or Java with Spring-AI to generate embeddings and perform simple similarity searches (March 2025)
 
 ### UI Clients
