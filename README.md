@@ -84,6 +84,12 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Articles
 
+- [Creating Private AI Applications with Spring AI and GPT OSS](https://ik.am/entries/867/en) - Comprehensive tutorial demonstrating Spring AI integration with local gpt-oss:20b model using Ollama, featuring RAG, chat memory, structured output, and building an immigration advisor chatbot (September 2025)
+- **Spring AI with Amazon Bedrock Series by Vadym Kazulkin** - Four-part comprehensive series by AWS Serverless Hero exploring Spring AI integration with Amazon Bedrock and Model Context Protocol implementations:
+  - [Part 1: Introduction and the Sample Application](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-1-introduction-and-the-sample-application-4hof) - Introduction to Spring AI with Amazon Bedrock featuring a conference search application with tools and chat memory (August 2024)
+  - [Part 2: Exploring Model Context Protocol STDIO Transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-2-exploring-model-context-protocol-stdio-transport-3o89) - Implementation of MCP server using STDIO transport with tool discovery and natural language interactions (August 2024)
+  - [Part 3: Exploring Model Context Protocol SSE Transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-3-exploring-model-context-protocol-sse-transport-48ah) - Demonstrates Server-Sent Events transport for Model Context Protocol with conference search tools (September 2024)
+  - [Part 4: Exploring Model Context Protocol Streamable HTTP Transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-4-exploring-model-context-protocol-streamable-http-transport-2o5h) - Final part exploring MCP server implementation using Streamable HTTP transport protocol (September 2024)
 - [Understanding Tool/Function Calling in LLMs (Step-by-Step Examples in REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b) - Learn how to implement OpenAI-style tool calling — from raw REST to elegant Spring AI annotations (July 2025)
 - [Semantic search with embeddings in Spring & Kotlin](https://medium.com/p/83e2c2f3406f) - Comprehensive guide to the use of embeddings in Spring AI (April 2025)
 - [Spring AI in Java Applications](https://medium.com/@alxkm/power-of-ai-in-java-applications-with-spring-ai-eed97c8408b2) - Vision for enterprise AI integration with Spring (March 2025)
