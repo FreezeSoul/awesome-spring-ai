@@ -12,6 +12,7 @@ A curated list of awesome resources, tools, tutorials, and projects for building
     - [Books](#books)
     - [Articles](#articles)
     - [Online Training](#online-training)
+        - [Udemy Courses](#udemy-courses)
     - [YouTube](#youtube)
         - [Channels](#channels)
         - [Talks & Videos](#talks--videos)
@@ -104,11 +105,20 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Online Training
 
-- [Spring AI: Beginner to Guru (Udemy)](https://www.udemy.com/course/spring-ai-beginner-to-guru/?couponCode=CP130525US) - Comprehensive course covering Spring AI fundamentals, integration with various LLM providers, prompt engineering, and building AI-powered applications
-- [Mastering Spring AI: Build AI with Java (Udemy)](https://www.udemy.com/course/mastering-spring-ai-build-ai-with-java/?couponCode=CP130525US) - Advanced course focused on building production-ready AI applications with Spring AI and Java
-- [Spring AI for Beginners: Build GenAI & LLM Apps (Udemy)](https://www.udemy.com/course/spring-ai-for-beginners-build-genai-llm-apps-in-easy-steps/?couponCode=CP130525US) - Step-by-step guide for beginners to create generative AI applications with Spring AI
-- [Spring AI with Neo4j: Knowledge Graph RAG (Udemy)](https://www.udemy.com/course/java-spring-ai-neo4j-openai-knowledge-graph-rag/?couponCode=CP130525US) - Specialized course on implementing Knowledge Graph RAG (Retrieval Augmented Generation) using Spring AI and Neo4j graph database
-- [Build AI Apps with Spring AI, OpenAI, Ollama & SpringBoot (Udemy)](https://www.udemy.com/course/build-ai-apps-with-spring-ai-openai-springboot/?couponCode=MT260825G2) - Hands-on course teaching how to integrate AI capabilities into Spring Boot applications using Spring AI framework and OpenAI (August 2025)
+### Udemy Courses
+
+- [From Java Dev to AI Engineer: Spring AI Fast Track](https://www.udemy.com/course/java-spring-ai/) - Build AI Apps with Spring AI, OpenAI, RAG, MCP, AI Testing, Observability, Speech & Image Generation by Madan Reddy & Eazy Bytes (2024)
+- [Build AI Apps with Spring AI, OpenAI, Ollama & SpringBoot](https://www.udemy.com/course/build-ai-apps-with-spring-ai-openai-springboot/) - Learn chat with LLMs, Retrieval-Augmented Generation, tool calling, and multimodal AI using Spring AI (August 2024)
+- [Spring AI - GenAI with Telusko](https://www.udemy.com/course/spring-ai-genai/) - Build AI-powered Spring Boot applications using SpringAI with OpenAI, Ollama, RAG, vector databases, with multimodal capability by Navin Reddy (2024)
+- [Master Generative AI with Java and Spring Boot | Spring AI](https://www.udemy.com/course/gen-ai-spring/) - Use Java and Spring to build Artificial Intelligence driven applications and lifecycle management by Shabbir Dawoodi (2024)
+- [In-Depth: Developing Generative AI Applications with Spring](https://www.udemy.com/course/in-depth-developing-generative-ai-applications-with-spring/) - Mastering Spring AI and Advanced Generative AI Technologies by Ken Krueger (2024)
+- [Build AI Customer Support with Spring AI and React](https://www.udemy.com/course/build-modern-ai-powered-web-apps-with-spring-ai-and-react/) - Build a Professional AI Customer Support System using Spring AI, Spring Boot, and React by Samson Alfred (2024)
+- [Spring AI: Creating Workflows, Agents and Parsing data](https://www.udemy.com/course/spring-ai-creating-workflows-agents-and-parsing-data/) - Creating intelligent workflows, autonomous agents, and advanced data parsing by Verissimo Ribeiro (2024)
+- [Spring AI: From AI Fundamentals to Spring AI Insights](https://www.udemy.com/course/spring-ai-insights/) - Use Java to Harness the Power of Spring AI with OpenAI by Uladzislau Zhurauliou (2024)
+- [Spring AI: Beginner to Guru](https://www.udemy.com/course/spring-ai-beginner-to-guru/) - Use Java to Unlock the Power of OpenAI's ChatGPT with Spring AI by John Thompson (2024)
+- [Mastering Spring AI: Build AI with Java](https://www.udemy.com/course/mastering-spring-ai-build-ai-with-java/) - Harness the Power of AI to Transform Your Java Applications by Pritesh Mistry (2024)
+- [Spring AI for Beginners: Build GenAI & LLM Apps](https://www.udemy.com/course/spring-ai-for-beginners-build-genai-llm-apps-in-easy-steps/) - Step-by-Step Guide to Master Spring AI by Bharath Thippireddy (2024)
+- [Spring AI with Neo4j: Knowledge Graph RAG](https://www.udemy.com/course/java-spring-ai-neo4j-openai-knowledge-graph-rag/) - RAG (Retrieval Augmented Generation) with Vector Similarity and Knowledge Graph using Spring AI, Neo4J, and OpenAI by Timotius Pamungkas (2024)
 
 
 #### Talks & Videos
