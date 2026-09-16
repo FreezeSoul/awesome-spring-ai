@@ -85,6 +85,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part I)](https://spring.io/blog/2024/09/26/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part-i)
 - [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part II)](https://spring.io/blog/2024/09/27/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part)
 - [Spring Pet Klinik - Kotlin](https://github.com/sdeleuze/spring-petklinik)
+- [Spring AI Recipes](https://www.habuma.com/springairecipes/) - Craig Walls' ongoing series of "recipe" style articles covering many Spring AI-related topics.
 
 ## Learning Resources
 
