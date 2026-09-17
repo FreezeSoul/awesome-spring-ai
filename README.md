@@ -61,7 +61,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring AI API Documentation](https://docs.spring.io/spring-ai/docs/1.0.0-SNAPSHOT/api/)
 
 ### Spring AI Blogs
-
+- [Spring AI 2.0.0 GA Available Now](https://spring.io/blog/2026/06/12/spring-ai-2-0-0-GA-available-now) - Official announcement of the Spring AI 2.0 general availability release, covering Spring Boot 4 support, stronger agentic foundations, unified tool calling, improved structured output, and expanded MCP integration. (June 2026)
 - [Spring AI 1.0 GA Released](https://spring.io/blog/2025/05/20/spring-ai-1-0-GA-released/) - Official announcement of the Spring AI 1.0 general availability release, covering ChatClient, vector store abstractions, RAG, tool calling, chat memory, MCP, agent patterns, evaluation, and observability (May 2025)
 - [Your First Spring AI 1.0 Application](https://spring.io/blog/2025/05/20/your-first-spring-ai-1) - Complete tutorial building a production-ready dog adoption service with RAG, MCP, vector stores, and PostgreSQL (May 2025)
 - [Repository Vector Search Methods](https://spring.io/blog/2025/05/23/vector-search-methods) - Technical guide on implementing vector search with Spring Data 3.5, covering Vector type, SearchResults, and search methods (May 2025)
